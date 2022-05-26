@@ -132,7 +132,7 @@ function setActive() {
 window.addEventListener('scroll',setActive)
 
 
- $('.carousel').flipster();
+//  $('.carousel').flipster();
 
     wow = new WOW(
         {
