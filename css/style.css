@@ -633,6 +633,9 @@ header{
         position: absolute;
         top: 0;
     }
+    .home-img{
+        width: 100px;
+    }
     .home-social{
         /* position: relative;
         top: 200px; */
@@ -659,6 +662,7 @@ header{
    .home-img{
        position: relative;
        top: -150px;
+       width: 200px;
    }
     .home-social{
         /* position: relative;
