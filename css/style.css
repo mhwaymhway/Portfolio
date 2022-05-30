@@ -655,7 +655,7 @@ header{
     }
     .home-container{
         position: absolute;
-        top: 20vh;
+        top: 15vh;
         display: grid;
         row-gap: 5rem;
     }
